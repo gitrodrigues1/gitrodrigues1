@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gitrodrigues1
 - 👀 I’m interested in Java and Back-end in general
-- 🌱 I’m currently learning Spring and it's frameworks
+- 🌱 I have knowledge in Spring framework
+- ☁️ I'm interested in cloud technologies and architecture (EDA, Messaging, Monitoring, CI/CD, etc) 
 - 💞️ I’m looking to collaborate on projects that includes people and makes them change their own game 
 - 📫 How to reach me: here on github @gitrodrigues1
 
