@@ -1,6 +1,5 @@
-<p align="center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com/?color=4af626&lines=hi,+i'm+@gitrodrigues1;welcome+to+my+github+profile!&repeat=false&center=true&vcenter=true&duration=6000)](https://git.io/typing-svg)
-</p>
 
 - 👋 Hi, I’m @gitrodrigues1
 - 👀 I’m interested in Java and Back-end in general
