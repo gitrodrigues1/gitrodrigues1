@@ -1,4 +1,4 @@
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?width=550&height=80&size=32&color=4af626&lines=Hi,+i'm+@gitrodrigues1;Welcome+to+my+github+profile!&repeat=false&center=true&vcenter=true&pause=3000)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?width=550&height=80&size=32&color=4af626&lines=Hi,+i'm+@gitrodrigues1;Welcome+to+my+github+profile!&repeat=false&center=true&vcenter=true&pause=1000)
 
  
 
