@@ -3,8 +3,8 @@
  
 
 - 👋 Hi, I’m @gitrodrigues1
-- 👀 I’m a lifetime learner. Actually learning Go lang.
-- 🔧 I have 3 years of experience working with backend development and about 6 years working with ERP software consulting in retail area. 
+- 👀 I’m a lifelong learner.
+- 🔧 I have experience working with backend development and many years working with ERP software consulting in retail area. 
 - ☁️ I'm interested in cloud technologies and architecture (EDA, System Design, Ops) 
 - 💞️ I’m looking to collaborate on projects that includes people and makes them change their own game 
 - 📫 How to reach me: here on github @gitrodrigues1
